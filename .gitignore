@@ -1,0 +1,20 @@
+# Ignorar a pasta node_modules
+node_modules/
+
+# Ignorar arquivos de ambiente (variáveis de ambiente)
+.env
+.env.local
+
+# Ignorar logs
+*.log
+
+# Ignorar pasta de distribuição (se houver)
+dist/
+build/
+
+# Ignorar arquivos de configuração do IDE (opcional)
+.vscode/
+.idea/
+
+# Ignorar arquivos de sistema (opcional)
+.DS_Store
